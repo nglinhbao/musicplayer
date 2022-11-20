@@ -1,0 +1,53 @@
+1
+Linh Bao
+Album 1
+2022
+1
+images/album1.bmp
+15
+Vi anh dau co biet
+sounds/vi_anh_dau_co_biet.m4a
+260
+Hom nay toi co don qua
+sounds/hom_nay_toi_co_don_qua.m4a
+262
+Co hen voi thanh xuan
+sounds/co_hen_voi_thanh_xuan.m4a
+216
+Thich qua rui na
+sounds/thich_qua_rui_na.m4a
+177
+Chang giong giang sinh
+sounds/chang_giong_giang_sinh.m4a
+196
+Chim sau
+sounds/chim_sau.m4a
+158
+Muon roi ma sao con
+sounds/muon_roi_ma_sao_con.m4a
+288
+Thich em hoi nhieu
+sounds/thich_em_hoi_nhieu.m4a
+200
+Squabble
+sounds/squabble.m4a
+262
+Waiting for you
+sounds/waiting_for_you.m4a
+196
+Together forever
+sounds/together_forever.m4a
+260
+Savage love
+sounds/savage_love.m4a
+177
+New face
+sounds/new_face.m4a
+288
+Edamame
+sounds/edamame.m4a
+200
+Dream
+sounds/dream.m4a
+260
+

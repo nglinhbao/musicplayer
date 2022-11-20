@@ -1,0 +1,44 @@
+3
+Brian
+Album 2
+2021
+2
+images/album2.bmp
+3
+Y
+sounds/y.m4a
+159
+Van rung
+sounds/van_rung.m4a
+200
+Chuyen rang
+sounds/chuyen_rang.m4a
+288
+LBao
+Album 3
+2018
+3
+images/thich_qua_rui_na.bmp
+2
+Whistle
+sounds/whistle.m4a
+262
+Butter
+sounds/butter.m4a
+177
+Baro
+Album 4
+2019
+4
+images/co_hen_voi_thanh_xuan.bmp
+3
+Hard to love
+sounds/hard_to_love.m4a
+177
+Typa girl
+sounds/typa_girl.m4a
+177
+Tai vi sao
+sounds/tai_vi_sao.m4a
+159
+
